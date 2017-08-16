@@ -1,0 +1,27 @@
+{
+    "name": "vench/fb_supported_locales",
+    "description": "",
+    "minimum-stability": "dev",
+    "license": "GNU",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "VsFbLangList\\": "src"
+        }
+    },
+    "autoload-dev": {
+       
+    },
+    "authors": [
+        {
+            "name": "Venya",
+            "email": "nowwrit@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0" 
+    },
+    "require-dev": {
+      
+    }
+}
