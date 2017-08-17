@@ -14,7 +14,7 @@ class Helper {
 	* @return array
 	*/
 	public static function getListLocaleFb() {
-		return require  './list.php';
+		return require  dirname(__FILE__) .  '/list.php';
 	}
 
 	/**
@@ -22,7 +22,7 @@ class Helper {
 	* @return array
 	*/
 	public static function getListRuCountry() {
-		return require  './ru_country.php';
+		return require  dirname(__FILE__) . '/ru_country.php';
 	}
 
 
