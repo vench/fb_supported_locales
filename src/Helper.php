@@ -54,5 +54,4 @@ class Helper {
 	}
 	 
 }
-
-print_r( Helper::getRuFBAllowCountry() );
+ 
