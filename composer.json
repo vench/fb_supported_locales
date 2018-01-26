@@ -2,7 +2,7 @@
     "name": "vench/fb_supported_locales",
     "description": "",
     "minimum-stability": "dev",
-    "license": "GNU",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
